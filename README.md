@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Task1 – Java CLI Calculator
 
 A simple command-line calculator written in Java. This program performs basic arithmetic operations using user input via the terminal.
@@ -27,3 +28,6 @@ Functions and modular code design
 Task1-JavaCLI-Calculator/
 ├── Task1.java
 └── README.md
+=======
+# Task2-JavaCLI-StudentsRecords-CRUD
+>>>>>>> bca2bb5474b7e21c17f00908043632dd274fb681
